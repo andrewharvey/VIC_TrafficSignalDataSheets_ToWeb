@@ -1,0 +1,7 @@
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%200-1999.zip
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%202000-2999.zip
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%203000-3999.zip
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%204000-4999.zip
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%205000-5999.zip
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%206000-6999.zip
+https://vicroadsopendatastorehouse.vicroads.vic.gov.au/opendata/Road/Assets/Electrical/Traffic_Signal_Configuration_Data_Sheets/Sheets%207000up.zip
